@@ -1,0 +1,14 @@
+# .gitignore JavaSwing
+
+# ignore directories
+target/
+res/
+.idea/
+
+# ignore files
+.DS_Store
+*.class
+*.zip
+*.rar
+*.tar.gz
+*.log.gz
